@@ -1,0 +1,42 @@
+body{
+
+    background-color: bisque;
+}
+
+h1{
+    color: aliceblue;
+    background-color: brown;
+    text-align: center;
+}
+
+img{
+
+    height: 300px;
+    width: 300px;
+    border: 10px solid black; 
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px red;
+   
+}
+#ele{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: brown;
+}
+
+p{
+
+    font-family:cursive;
+}
+
+.countries{
+
+    font-size: 20px;
+    font-weight: bolder;
+    color:darkblue;
+}
+
+h4{
+
+    color: aliceblue;
+    background-color:crimson;
+}
